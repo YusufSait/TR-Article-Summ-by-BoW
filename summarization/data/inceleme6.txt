@@ -1,0 +1,35 @@
+﻿Özetle
+Toparlayacak olursak Acer UT220HQL, dokunmatik ekranlı bir monitör arayanların listeye alması gereken bir monitör olmayı hak ediyor. Çok amaçlı kullanım imkanı sunan monitörün bizce en büyük handikabı parlak ekranının yansıma yapması. Bunun dışında gerek görüntü kalitesi, gerek bağlantı seçenekleri, gerek dokunmatik performansı konusunda iyi işlenmiş bir model olmuş.
+
+Kimler Almalı
+Acer UT220HQL, dokunmatik ekranlı bir monitör arayanların satın alabilecekleri bir monitör.
+
+Acer'ın dokunmatik ekranlı monitör modeli UT220HQL, masamızda.
+
+Son dönemde oyuncuların dikkatini daha çok 144Hz görüntü veren G-Sync ve FreeSync'li modeller çekerken, ofis tarafında ise daha geniş ve esnek yapılara sahip monitörlere ihtiyaç duyuluyor. Bugün inceleyeceğimiz Acer'ın UT220HQL isimli modeli ise, oyuncular için değil, daha çok ofis ve evde günlük kullanımlar gözetilerek hazırlanmış bir monitör. Ancak onu farklı yapan bir özelliği var ki, o da dokunmatik ekranı.
+
+Ekranının dokunmatik olmasıyla evinde veya ofisinde Windows 8 tabanlı işletim sistemini kullananlar için yardımcı olan bu monitör, 10 noktaya kadar çoklu dokunma desteği gösterebiliyor. Peki, monitörün dokunmatik olması ne kadar önemli? Tamam, dokunmatik ekran özelliği ekranın ebadı büyüdükçe kullanılabilirliğini azaltıyor belki, ancak yine de dizüstü bilgisayarında dokunmatik ekrana alışmış olan kullanıcılar için yararlı olduğu aşikar. Zira dizüstü bilgisayarında veya tabletinde dokunmatik ekrana alışkın kullanıcılar, monitörler karşısında istem dışı bir şekilde parmaklarını ekrana uzatmaktan geri kalmıyorlar. Ekran dokunmatikse ne ala, aksi halde küçük de olsa bir hayal kırıklığı orada onları bekliyor. Lafı daha fazla uzatmadan artık Acer'ın bu monitörüne geçelim. Bakalım Acer UT220HQL bize neler sunuyor?
+
+Tasarım detayları
+
+
+Öncelikle Acer UT220HQL'yi tasarımıyla ele alalım. Monitör için rahatlıkla şık bir tasarıma sahip olduğunu söyleyebiliriz. Ekran çerçevesi biraz kalın bulunabilir belki, ancak alt kısımda yer alan şeffaf bölüm oldukça güzel bir görünüm sergiliyor.
+
+Monitör alt kısımdaki ızgaralı alanda monitörlerine yer veriyor. Burada yine yer ala Acer logosunun altında ise menü butonlarını bir arada görüyoruz. Tuşların erişimi kolay ve çok göze batmıyor, hatta orada olduklarını görebilmek için dikkatle bakmanız lazım. Güç butonu ise sağ köşede bizi bekliyor.
+
+Acer UT220HQL'nin bağlantıları iki farklı yerde konumlanmış. Bir kulaklık ve iki USB noktası monitörün sağ kenarında bizlere sunuluyor. Diğer bağlantılar ise monitörün arka kısmında. Burada HDMI ve VGA bağlantılarını görüyoruz. DVI ise bulunmuyor. Yine burada ekranın dokunmatik özellik kazanabilmesi için bir USB bağlantısı bulunuyor.
+
+Bunun nasıl olduğunu merak edenler için hemen söyleyelim: Monitörün kutu içeriğinde bir USB kablosu yer alıyor. Bu kablonun bir ucunu bilgisayarınıza, bir ucunu ise monitörün arka yüzündeki USB noktasına bağlıyorsunuz ve bu sayede monitör dokunmatik özelliğe kavuşuyor.
+
+Acer UT220HQL, öte yandan hareketli bir standa sahip. Ekranın dayanak noktasını oluşturan arkadaki stant hareket edebiliyor. Böylece monitörün ekranını öne ve arkaya yaklaşık 80 derecelik açıyla hareket ettirebiliyorsunuz.
+
+Full HD dokunmatik ekran
+
+
+Acer UT220HQL, görüntü kalitesiyle iyi bir model. 1920x1080 piksel, yani Full HD çözünürlük sunan ekran, 2K ve 4K seçenekleri aramayan kullanıcıların ilgisini çekecek türde. Ancak elbette ekranın dokunmatik olmasını da istiyorlarsa... Aksi halde standart modeller arasında Full HD destekli daha uygun fiyatlı modeller var. Bu model dokunmatik ekranlı olduğu için 1000 TL fiyat çizgisinde bulunuyor ki, fiyatıyla rakipleriyle yakın seyrediyor.
+
+10 noktaya kadar dokunmatik ekran desteği veren monitör, rahat bir şekilde kullanılıyor ve dokunma desteğiyle ilgili herhangi bir sıkıntı yaratmıyor. Windows 8 kullanıcıları rahatlıkla dizüstü bilgisayarlarında bıraktıkları dokunma deneyimlerini böylece bu monitöre de taşıyabilirler.
+
+178 dereceye kadar görüş açısı sunan monitör, LED arka aydınlatmaya sahip. Ekran boyutu ise 21.5 inç olarak sunuluyor. Ekranın görüntü kalitesiyle ilgili bir sıkıntısı yok, parlaklık ve kontrast oranları yerinde. Fakat şunu söylemek lazım: Ekranda parlak malzeme kullanıldığı için yansıma yapabiliyor. Özellikle monitörü konumlandırdığınız yerin önünde, ekrana düşecek bir ışık varsa açıkçası yansıma probleminden ötürü görüntü kalitesi bir hayli etkileniyor. Aksi durumlarda ve karanlık ortamlarda ise gayet iyi bir görüntü sunuyor.
+
+60 Hz tazeleme hızı sunan monitör ayrıca 8 ms'lik tepki süresiyle ise bazı rakiplerinden bir tık geride.  Her ne kadar pratik anlamda çok çok fark edilmese de değer olarak 4 veya 5 ms'lik tepki süresi sunan rakiplerinden bu anlamda bir tık geriye düşen Acer UT220HQL'nin son olarak menü arabiriminde Türkçe dil desteğine yer verdiğini ve hoparlörlerinin ses kalitesiyle de beğenimizi kazandığını söyleyerek sözü bağlayalım: Acer UT220HQL ile geçirdiğimiz süre boyunca hem oyun oynama hem film izleme hem de ofis işleri için çalışma fırsatımız oldu. Elbette bu monitör bir oyun monitörü değil, o nedenle 144 Hz'lik modellerin yanında sırıtacaktır, fakat aldığı monitörü çok amaçlı kullanmak isteyen ve buna ek olarak dokunmatik özellikten de faydalanmak isteyen kullanıcıların bu monitörü beğeneceklerini düşündüğümüzü rahatlıkla söyleyebiliriz.

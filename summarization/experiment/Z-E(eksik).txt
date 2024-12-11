@@ -1,0 +1,11 @@
+﻿haber1.txt – B
+haber3.txt - B
+haber6.txt – A
+haber8.txt - B
+haber10.txt - B
+
+1 k-means
+3 hierarchic
+6 k-means
+8 k-means
+10 hierarchic

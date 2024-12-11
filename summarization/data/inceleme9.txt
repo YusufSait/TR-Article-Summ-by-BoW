@@ -1,0 +1,29 @@
+﻿Özetle
+Şu an yeni sistem toplayanların artık yeni platforma geçmekten başka düşüncesi olduğunu sanmıyoruz. Bu bağlamda elimizdeki Fury DDR4 kiti de iyi bir seçim olabilir doğrusu. İyi seviyede performans sağlayan kitin incelediğimiz 16 GB'lık kapasitesinin yanında daha üst kapasitelerde alternatiflerinin olduğunu da bir kez daha hatırlatalım. Elimizdeki kitin fiyatı ise 430 TL civarında. Bu anlamda kit, fiyat/performans olarak da şu an iyi bir çizgide.
+
+Kimler Almalı
+Yeni platform toplayanlar ve DDR4 arayanların dikkatini çekebilecek olan Fury DDR4, fiyat/performans olarak da hesaplı bir kit arayanlar tarafından beğenilebilir.
+
+İyi bir oyuncuysanız artık DDR4'e terfi zamanı. Peki, ne alacaksınız? Fury DDR4 iyi bir seçim mi?
+
+Intel'in X99 platformuyla birlikte kullanılabilir hale gelen DDR4 RAM'ler, elbette bu yıl ortaya çıkan Intel'in 6'ıncı nesil işlemcileriyle beraber de dikkatleri üzerine çekmeyi sürdürüyor. X99 plaftormunun yanı sıra 6'ıncı nesil Intel Core işlemciler için LGA1151 soket yapısına sahip anakartlarda da kullanılabilen DDR4 RAM'ler, hız konusunda kullanıcılara büyük fayda sağlıyor. Tabii ki bu seyirle beraber bir süredir farklı markalar altında pek çok DDR4 RAM inceleme şansı bulduk. Bugün test merkezimize uğrayan RAM'se, Kingston'a ait. Bugün, Kingston'ın artık ünlü markası olan HyperX ürün ailesi altında yer verdiği Fury DDR4 RAM'lerini inceleyeceğiz.
+
+Düşük profil, siyah PCB
+
+
+HyperX'in kendi içinde farklı ürün segmentleri bulunuyor. Bunlardan üst düzey oyunculara hitap eden aile Predator'ken, Fury ise daha fiyat / performans amaçlı tercih edilebilecek aile olarak kendine yer buluyor. Bir de Savage ailesi var elbette... Bu arada gelecek günlerde Kingston'ın Savage ailesinden de DDR4 kit inceleme fırsatı bulacağımızın bilgisini de buradan verelim.
+
+Fury serisi, Predator'e göre daha düşük profile sahip bir aile. Boyutlarıyla bunu ortaya koyan Fury DDR4, 34 mm'lik yüksekliğe sahip. Bu da 55 mm'lik yükseklikteki Predator'e göre, küçük kasalar için avantaj yaratan bir etken. RAM'in üzerinde yer alan soğutucu tabakanın daha dar oluşu ise performans açısından bir soru işareti yaratmasın. Zira RAM'i kullandığımız süre boyunca en ufak sorun yaşamadan iyi performans yakaladık.
+
+Siyah PCB malzemesiyle HyperX çekiciliğini yansıtan kit, elimizde 8 GB'dan ikili set olarak bulunuyor.  
+
+Güçlü performans
+
+
+Elimizdeki modeliyle totalde 16 GB'lık kapasiteye sahip olan Fury DDR4, ayrıca 32 GB ve 64 GB'lık kitlerle de bulunabiliyor. Hemen kısaca teknik detaylarından bahsedip ardından da performans notlarına geçelim. Taban frekansta 2133 MHz'de çalışan kit, 2400 MHz ve 2666 MHz frekansları da destekliyor. Ayrıca otomatik olarak hız aşırtmaya uğrayabilen Fury DDR4, böylece 2666 MHz hızında bir performans gösteriyor. Bu sayede BIOS üzerinden ayrıca bir ayar yapma uğraşısından kullanıcıları kurtaran kitin düşük güç tüketimiyle dikkat çektiğini de söyleyelim. DDR4'lerin performans anlamında olduğu kadar bir diğer esprisi de zaten düşük güç tüketimi sağlamaları. Fury DDR4 de bunu yansıtan bir kit ve yalnızca 1.2V güç çekiyor.
+
+Fury DDR4'leri biz de kendi test sistemimizde inceleme fırsatı bulduk. Test sistemimizin detaylarına gelirsek, sistemde Intel'in 6'ıncı nesil i7-6700K işlemcisini kullandığımızı söyleyelim. Anakart olarak MSI'ın güçlü anakartı Z170A XPower Gaming Titanium Edition'ın ana platform olduğu sistemde grafik kartı olarak Nvidia GeForce GTX 970 kullandık. Depolama olarak tercihimiz 256 GB'lık Samsung 840 Pro olurken, monitörümüz ise AOC'nin U2868PQU modeliydi.
+
+Test sistemimizi tanıdıktan sonra test aşamasına geçelim. RAM kitini, Alien Isolation ve Bioshock Infinite'de inceleme şansı bulduk. Yine ayrıca Benchmark olarak da Unigine Valley'i koşturduk. Çözünürlük olarak her ne kadar monitörümüz 4K desteği verse de, henüz oyuncular tarafında standart olarak kullanılan Full HD çözünürlüğü ve ultra grafik senaryosunu baz aldık. Aldığımız sonuçların oldukça  başarılı olduğunu söyleyelim. Elbette bunda RAM kiti kadar diğer bileşenlerin de büyük önemi bulunuyor.
+
+Alien Isolation'da ortalama 142 FPS aldığımız test senaryosunda, Bioshock Infinite'de ise ortalama 139 FPS'leri gördük. Benchmark testine gelince Unigine Valley'de 4539 puan aldığımızı da söyleyelim.

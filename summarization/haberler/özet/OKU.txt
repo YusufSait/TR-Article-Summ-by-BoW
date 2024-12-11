@@ -1,0 +1,6 @@
+﻿A) k means
+
+B) hierarchic
+
+Değişenler:
+1,2,5,7,8

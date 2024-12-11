@@ -1,0 +1,30 @@
+﻿Özetle
+ASRock N3700-ITX, kompakt yapıda güzel bir anakart. Formuna uygun materyallerle donalı olan kart, uygun performans gösteriyor. Bu anlamda kartı gayet beğendik. Fiyatıyla da makul olan kart, 580 TL civarında. Elbette yakın fiyata pek çok rakibin sahibi. Bu bağlamda seçim kullanıcının, yani sizlerin.
+
+Kimler Almalı
+ASRock N3700-ITX, ister eve ister ofise mini, kompakt boyutta ve fiyatıyla da makul bir sistem toplamak isteyenler tarafından değerlendirilebilir.
+
+EDİTÖR'ÜN SEÇİMİTÜMÜ
+ 
+ASUS Asus Maximus VI Impact
+Bir PC toplamak için atılacak ilk adım anakart seçimi. Peki, ASRock'ın bu anakartı nasıl?
+
+Masaüstü bilgisayarlar artık yalnızca masaüstünde değil, farklı formatlarda farklı platformlarda boy boy kendilerine yer buluyorlar. Mini USB belleklere dahi uyabilen yapıları mevcutken, kompakt sistemler halinde ofislerde de kullanılabiliyor ve hatta Home Theater PC olarak anılan HTPC formatlarıyla da tercih edilebiliyorlar. Bugün elimizde bulunan ASRock N3700-ITX anakartı da bu sınıfa giriyor. HTPC adı altında kullanılan Mini ITX anakartları hem performans olarak rahatlık sunacak hem yer kaplamayacak ölçüde bir mini PC sahibi olmak isteyenler tarafından satın alınıyor. Burada da bir ayrım noktası mevcut. Bu anakartları ister tümleşik, yani on-board işlemcili olarak bulabiliyor veya işlemciyi kendiniz tedarik edebiliyorsunuz. ASRock N3700-ITX'te ise işlemci üzerinde geliyor.
+
+Tümleşik yapı
+
+
+ASRock N3700-ITX, dahili işlemci ve yine dahili grafik işlemciyi beraberinde getiren, yalnızca RAM ve depolama kapasitesi takviyesi gibi birkaç küçük birleşenle hayata getirebileceğiniz bir anakart. Mini ITX formunda olan anakart, oldukça küçük bir yer kaplıyor. Anakartı yine uygun bir kasayla kapladığınızda da çok büyük bir alan kaplamayacaktır.
+
+Üzerinde Intel Quad-Core Pentium N3700 işlemci bulunduran anakart, ayrıca işlemciyi de bir soğutucuyla kaplamış durumda. Bu arada işlemcinin bu yılın ilk çeyreğine ait olduğunu ve 14 nm mimarisinde üretildiğini de söyleyelim. Tabanda 1.6 GHz frekansta çalışan işlemci, tavan frekansta ise 2.4 GHz'e erişebiliyor.
+
+Dahili grafik işlemci olarak 400 MHz ila 700 MHz frekans aralığında çalışan Intel HD Graphics'i kullanan işlemci, üç farklı monitöre görüntü desteği sağlayabiliyor. Arka bağlantıları arasında HDMI, DisplayPort ve DVI bağlantılarını bulunduran anakart, ayrıca yine burada 4 adet USB 3.0 ve 2 adet de USB 2.0 portuna yer veriyor.
+
+Üç platforma uygun
+
+
+ASRock N3700-ITX, üç farklı alanda rahatlıkla kullanılabilecek bir anakart. Bunlardan biri evde günlük kullanımlar için, internet, mini oyunları çalıştırmak için bir platform olabilirken, bir diğeri direkt ofislerde ofis uygulamaları için iyi bir alternatif olarak kendine yer bulabilir. Yine bir diğer platform ise elbette HTPC, yani Home Theater PC olarak evde televizyonun hemen altında kullanılmak üzere olabilir. Ev eğlencesi için kompakt bir çözüm olmasını elbette yalnızca yeterli işlem hızı ile değil, ses desteğiyle de sağlıyor. Burada ELNA Audio desteği dikkat çekiyor. ELNA ses kapasitörlerini kullanan anakart, 7.1 kanal HD ses çıkışına sahip. Bu sayede televizyonunuzun yanında bir ses sisteminiz varsa, bu anlamda da ASRock N3700-ITX kullanışlı bir seçenek olabilir.
+
+ASRock N3700-ITX, mini ITX formunda bir anakart demiştik. Burada RAM seçeneği de farklı kullanılmış. Yani bu anakarta RAM seçerken, bakacağınız RAM'ler SO-DIMM yapısında olacak. Anakart, 2 adet SO-DIMM DDR3 veya DDR3L RAM'i kabul ediyor. Kapasite limiti ise 16 GB.
+
+Yine kart üzerinde mini-PCIe slotu bulunuyor. Buraya da uygun bir Wi-Fi adaptör alarak sistemi kablosuz ağlara hazır hale getirmek mümkün. Depolama içinse, elbette SATA 3 mevcut. Dört adet SATA portunu üzerinde taşıyan anakart, böylece gerekli altyapıyı sunuyor.

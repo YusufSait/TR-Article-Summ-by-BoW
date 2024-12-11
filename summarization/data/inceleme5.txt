@@ -1,0 +1,99 @@
+﻿Özetle
+Gerek ücretsiz yükseltme seçeneğinin bulunması, gerekse Windows 7 ve Windows 8'e göre açılma, çalışma performansının yüksek olması; gerekse Microsoft'un artık kullanıcıların neler istediğine kulak kabartmasıyla oluşmuş en iyi işletim sistemlerinden biri olduğunu kanıtlamış olan Windows 10'a geçmemek için gerçekten çok büyük bahaneler olması gerekiyor. Bizim görebildiğimiz kadarıyla böyle büyük baheneleri bulmak oldukça zor olacak. Özellikle DirectX 12 desteği ile gelecek oyunlarda nasıl performans yükselebileceğini düşündükçe oyunseverler için bile şimdiden çok şey vaadediyor.
+
+WİNDOWS 10 HABER VE İNCELEMELERİTÜMÜ
+
+ 
+Windows 10 Mobile çok yakınımızda olabilir!
+ 
+2015'te en çok bunları okudunuz!
+ 
+Microsoft şifreleme anahtarlarını depoluyor!
+ 
+Windows 10'lu cihaz sayısında yeni rekor!
+Yeni tasarım, yeni uygulamalar, yeni tarayıcı... Windows 10'u her yönüyle inceledik!
+
+Windows XP'den bu yana birçok kişi Microsoft'un işletim sistemlerine mesafeli durmayı tercih etti. Özellikle Vista'nın çoğu kişide hayal kırıklığı yaratması, Windows 7'ye bile soğuk baktırmıştı. Tablet ve cep telefonlarının yükselişe geçmesi Windows 8'i getirse de, Windows 8.1 bile bu ünü kurtaramadı. Her ne kadar özenle hazırlanmış olsa da kullanıcılar büyük değişikliklere alışamadı.
+
+Neyse ki bugünün Microsoft'u artık Windows 8'i üreten Microsoft gibi davranmıyor. Linux, iOS, OS X ve Android gibi birçok cihaz için uygulamalar üretiyor. Kullanıcıları dinliyor ve ona göre yeni ürünler sunuyor. Özellikle Windows 10 Insider programı ile gelen her öneriyi dinlemiş gibi görünüyor.
+
+Windows 10 da artık elimize ulaşmaya başladı. Microsoft öncelikle Windows 7 ve 8, 8.1 kullanıcılarını da düşündü ve ev kullanıcıları için yükseltmeyi tamamen ücretsiz hale getirdi.
+
+Windows 10 artık sadece 32 veya 64 bit PC'ler için bir işletim sistemi olmaktan çıkan bir sistem. Ayrıca ARM desteği ile küçük tablet ve telefonlar için de bir platform özelliği ile ortaya çıkıyor ve tıpkı XP, Vista, 7 ve 8 gibi Windows 10 da NT ailesinden.
+
+Yasal Windows 7 veya 8 veya 8.1 sahipleri güncellemelerle gelen rezerve işleminden sonra Windows 10'a sistemlerini güncelleyebilirler.
+
+Test Sistemi
+
+DELL'in Windows 10 için özel olarak ürettiği ve CHIP Online'a gönderdiği sistemde ilk testlerimizi yaptık. Intel Core i5 1.6 GHz işlemciye sahip sistemde 4 GB RAM, 1920x1080 Full HD Dokunmatik ekrana sahip ve  128 GB SSD mevcut.
+
+Sistem Gereksinimleri
+
+
+Yasal Windows 7 ve Windows 8 kullanıcıların ücretsiz geçiş yapabileceği Windows 10'un sistem gereksinimleri yine bu sistemlerden pek farklı değil
+
+1 GHz işlemci veya üstü
+32-bit için 1 Gigabyte RAM , 64-bit kullanmak için 2 GB RAM
+16 GB boş disk alanı
+WDDM sürücüsüne sahip DirectX 9 veya üstü çalıştırabilen ekran kartı
+Microsoft hesabı ve internet erişimi
+Hızlı İşlem Merkezi ve Bildirimler
+
+
+Bildirimler ve hızlı işlemler artık alıştıklarımız
+Windows 8'in Charms menüsünün yerini alan hızlı işlem merkezi, pek çoğumuzun artık akıllı telefonlardan aşina olduğumuz bir menü ve bildirim merkezi.  Menü sağda ekranın en üstüne kadar kaplayacak şekilde beliriyor. Buradan Wi-Fi ve Bluetooth bağlantılarınızı açıp kapayabilir, artık ülkemizde pek çok kişinin kullanmaya başladığı VPN bağlantılarını yapabilir veya tablet / masaüstü moduna geçiş yapabilirsiniz.
+
+Ayrıca bu bölümde Windows 8'de kapanıp açılan fakat bir daha asla bulamadığınız uygulamalarınızdan beliren haberleri ve bildirimleri de görebileceğinizi belirtmekte fayda var.
+
+Dosya Gezgini Yenilikleri
+
+
+Dosya gezgini ilk açtığınızda farkedeceğiniz temel şey artık Bilgisayar sürücüleri yerine "Son kullanılan dosyaları" göz önünde tutmak. En son kaydettiğiniz dosyaları çok daha rahat göz önüne çıkaran özelliğin yanında bir çok simgenin de artık değiştiğini ve modern görünüşlerle değiştirildiğini görebiliyorsunuz.
+
+Artık sağ fare menüsü ile yapabileceğiniz bir çok şey de Ribbon menülerine girmiş durumda. Örneğin artık "Paylaş" menüsü ile dilerseniz Evrensel uygulamalarla isterseniz diğer yazılımlara dosyalarınızı gönderebiliyorsunuz.
+
+Farkedeceğiniz bir diğer özellik ise OneDrive'ın artık işletim sisteminin bir parçası haline gelmesi. Kolaylıkla dosyalarınızı yedekleyebileceğiniz OneDrive için Microsoft hesabınızı kullanabilirsiniz.
+
+Evrensel Uygulamalar
+
+
+Windows 8'in aksine Microsoft bu kez uygulamalar için geliştiricileri düşünüp, mevcut uygulamaları Windows 10 uygulamalarına çevirebilecek araçlar da sunmuş. Örneğin Visual Studio 2015 ile iOS için Objective C ile yazılmış veya Android uygulamlarını Windows 10 uygulamalarına çevirebilecek araçlar sunuyor.
+
+Doğal olarak uygulama mağazası da bunun için güncellenmiş durumda. Sadece telefon / tablet tarzı uygulamlarla sınırlı değil, aynı zamanda masaüstü uygulamalarının da indirilebileceği / satın alınabileceği bir platform haline dönüştü.
+
+Geliştiricilerin tek yapması gereken uygulamalarını Uygulama Sanallaştırma (App-V) paketi içine almak ve Windows Mağazası'na göndermek.
+
+Söylenmesi gereken bir diğer şey de, artık evrensel uygulamaların tam ekran veya kendine özgü ekranı olması gerekmiyor. Masaüstü ile birlikte çalışabiliyor. Bir yandan bilgisayarınızda işlerinizi yaparken diğer yandan da Twitter mesajlarını sağda görebilirsiniz.
+
+Edge, gerçekten uçlarda mı?
+
+
+Microsoft Edge, Windows 10'un varsayılan internet tarayıcısı
+Internet Explorer nefreti çok az sayıda yazılıma nasip olmuş nefretlerden biri. IE takımı her ne kadar IE9 ve sonrasında IE6'da yapılanı toparlamaya çalıştılarsa da, IE adına olan antipatiden kurtaramadılar.
+
+Edge işte bu yüzden varsayılan tarayıcı olarak Windows 10'da. Bir çok açıdan varolan diğer tarayıcılarla kıyaslandığında oldukça başarılı olması kullanıcılar açısından nasıl karşılanacak bunu zaman gösterecek ama şimdilik pratik ve hızlı olduğunu söyleyebiliriz. 
+
+Diğer tarayıcıların eklentilerle desteklediği pek çok şeyi varsayılan olarak desteklese de, hala ismini tam olarak koyamadığımız eksikliklerini görebiliyoruz. Örneğin, pencereler arası geçişlerde veya tabları ayırıp birleştirirken bazı sıkıntılar göze çarpıyor. Herhangi bir şey indirmek istediğinizde varsayılan olarak size sormadan indirilenler klasörünüze indirmeye başlıyor. 
+
+Sunspider 1.0.2 testi ile JavaScript performansını ölçtüğümü Microsoft Edge 118ms ile oldukça iyiy Firefox 37 aynı testte 260ms ve Chrome 43 ise 303 ms skor aldı.
+
+Web Notu
+
+
+Edge'in kuşkusuz en güzel özelliklerinden biri de web siteleri üzerinde kolayca eklemeler düzeltmeler yapabileceğiniz Web Notu uygulaması. Kolay çizim araçlarıyla oluşturduğunuz notları hemen paylaşmanız da sağlanıyor.  Diğer tarayıcıların Windows üzerindeki dokumantik performansları göz önüne alındığında özellikle tablet kullanıcılarının favorisi olacağı kesin.
+
+Görev Görünümü ve çoklu masaüstü
+
+
+En eski Windows sürümlerinden beri varolan ALT + TAB Görev görünümü bu kez çoklu masaüstü seçeneğiyle karşımıza çıkıyor. Görev çubuğundaki simgeye tıklayarak açık tüm uygulamaları görebileceğiniz ekrana ulaşabiliyorsunuz. Bu ekran sadece açık uygulamalar arası dolaşmak için değil, fare ile veya dokunup çekerek uygulamaları farklı masaüstü ekranlarına gönderebiliyorsunuz.  Çok uygulamada aynı anda çalışanlar için varolan çoklu masaüstü seçeneği ile en azından dikkatinizi belli uygulamalara yoğunlaştırabilme açısından önemli.
+
+Her ne kadar çoklu masaüstü Windows'a özgü bir özellik olmasa da, Windows'ta da bulunması oldukça iyi olmuş gibi duruyor.
+
+Yerleşik uygulamalar ve Sonuç
+
+
+Windows 10 pek çok yerleşik uygulamayla birlikte geliyor. Pek çoğu zaten alışık olduğumuz Takvim, Posta, Fotoğraflar, Haberler, Finans, One Note, Xbox, Groove Müzik, Filmler ve TV gibi isimlerinden de anlayabileceğiniz hemen herkesin bir işletim sisteminde bulunmasından memnuniyet duyacağı uygulamalar. 
+
+Ama özellikle dikkat çeken uygulama 3D builder. 3D Builder ile yakın zamanda oldukça popüler olan 3D yazıcılardan çıkarabileceğiniz modelleri hazırlayabileceğiniz 3 boyutlu modelleriniz oluşturabilirsiniz. 
+
+Ayrıca hem iOS , hem Android hem de Microsoft Phone telefonları sistemimizle bağlayabileceğimiz Telefon Eşlikçisi ile OneDrive, şarkılarınız, Skype, Word Excel ve Powerpoint sunumlarınız ayrıca Outlook takviminizi eşitleyebilirsiniz.

@@ -1,0 +1,41 @@
+﻿Özetle
+AOC G2460PG, G-Sync'li monitör arayanlara rahatlıkla önerebileceğimiz monitörlerden biri olmayı başarıyor. Gerek görüntü kalitesi, gerek G-Sync desteği, gerekse de ergonomik tasarımıyla fazlasıyla başarılı olan monitör, tek video girişi sunması ve hoparlör bulundurmamasıyla ise kullanıcıları bir nebze üzebilir. Öte yandan fiyatı da elbette tüm G-Sync'li monitörler gibi her kullanıcıya uygun değil; keseyi biraz açmanız gerekiyor. AOC G2460PG, şimdilerde 2127 TL fiyat etiketine sahip. Fakat bunu bir kenara bırakacak olursak, G-Sync'li 24 inç boyutunda bir monitör arayanlara AOC G2460PG'yi önerebiliriz.
+
+Kimler Almalı
+G-Sync'li 24 inç boyutunda bir monitör arayanlara AOC G2460PG'yi önerebiliriz.
+
+Oyuncuların son dönem ilgi odağını oluşturan G-Sync'li monitör AOC G2460PG test masamızda.
+
+Oyunseverlerin son dönemde en çok dikkatini çeken teknolojilerden biri elbette Nvidia tarafında G-Sync, AMD tarafında ise FreeSync olarak karşımıza çıkıyor. Şu an piyasada bulunan G-Sync'li modeller ağır basıyor olsa da fiyatları nedeniyle henüz her bütçeye uygun değiller. Zaman içinde fiyatlarının düşmesini ve her keseye hitap etmesini bekliyoruz elbette. Bugün elimizdeki monitör de G-Sync desteği gösteren bir model. AOC'nin G2460PG isimli monitörü, bizlere G-Sync desteği sunuyor. Peki, G-Sync nedir, ne işe yarar, nasıl çalışır? Şimdi önce G-Sync'e bakalım, ardından da AOC'nin G-Sync'li monitöründen bahsedelim.
+
+G-Sync nedir?
+
+
+Genel olarak monitörler 60 Hz tazeleme oranına sahip. Bu da saniyede 60 kare, oyuncuların tabiriyle 60 FPS görüntüledikleri anlamına geliyor. Öte yandan ekran kartları farklı hızlarda görüntü tazeleyebiliyorlar. Hal böyle olunca ekran kartları görüntüyü monitörlerin tazeleme hızından daha hızlı görüntüleyerek görüntüde bozulmalara sebep oluyor. Bunu düzeltmek için bugüne kadar V-Sync'i kullanıyorduk. Oyun video özellikleri kısmından V-Sync'i aktif hale getirdiğimizde, bu problemden kurtuluyor, ancak bu defa da senkronize için ekran kartı üzerine ek yük getirdiğinden takılmalarla karşılaşabiliyorduk.
+
+Şimdi G-Sync var ve bu teknoloji sayesinde monitörün tazeleme hızı ile ekran kartının tazeleme hızı tamamen senkronize çalışabiliyor. Bu senkronize olmanın getirdiği bir de yük var elbette. Bu yük PC kasasının içindeki ekran kartına yüklenmiyor. Monitörün içine yerleştirilen G-Sync işlemcisi bunun için var. Bu senkronizasyon yükünü tamamen kendi üzerine alan bu işlemci, böylece titremeyen, yumuşak bir oyun deneyimi sunabiliyor. Böylece 144 Hz'e kadar farklı frekanslarda senkronize görüntü tazeleme hızlarına erişilebiliyor.
+
+Teknik detaylar
+
+
+Bu defa G-Sync deneyimini AOC'nin G2460PG isimli monitöründe yaşıyoruz. 24 inç boyutunda olan monitör, ideal büyüklükte. Totalde 1920x1080 piksel çözünürlük sağlayan monitör, belki 2K desteği göstermiyor ancak bu elbette tercih meselesi. Çoğu kullanıcı fiyatları yüksek olduğu veya sistemleri henüz hazır olmadığı için 2K çözünürlüğü şu an için düşünmüyor.
+
+Monitörün teknik detaylarına bakmaya devam edersek, elbette bir oyuncu monitörü olduğu için tepki süresinin karşısında 1 ms'yi görüyoruz. Yine geniş kontrast oranı ve 350 kandela parlaklık seviyesiyle iyi durumda olan monitör, 16:9 oranında görüntü sunuyor.
+
+G2460PG'nin bağlantılarına baktığımızda ise bir DisplayPort ile USB bağlantılarını görüyoruz. Cihazda iki USB 3.0, iki de USB 2.0 noktası bulunuyor. Fakat HDMI'ya yer verilmemiş olması üzücü. Başka bir video kaynağını bağlayamıyorsunuz.
+
+Performans
+
+
+AOC G2460PG, görüntü performansıyla da oyun performansıyla olduğu kadar iddialı bir monitör. Siyah dengesi bir yana renk yelpazesiyle de beğendiğimiz monitör, oyunlarda zaten 144 Hz'in farkını ortaya koyuyor.
+
+60 Hz'lik monitör sahipleri 144 Hz'lik bir monitörün ekranına baktıklarında zaten anında farklılığı göreceklerdir. Farenin ekranın üzerinde yağ gibi kaydığını görmek mümkün. Bunun oyunlardaki karşılığı ise daha enfes doğrusu. Biz monitör bizde kaldığı süre boyunca GTA V de dahil olmak üzere, Watch Dogs ve FarCry 4 oynama imkanı bulduk. G-Sync açık veya kapalı fark etmez, görüntü kalitesiyle gayet memnun kaldığımızı söylemek lazım. Elbette G-Sync'i açtığınızda oyun performansı noktasında eğlenceyi üst seviyelere taşıyorsunuz. Zira oyunlarda Tearing'den kurtulmak için V-Sync'i açtığınızda performanstan ödün verdiğiniz, performansı kurtarmak adına V-Sync'i kapattığınızda bu sefer de ekran ağlamasına takıldığınız dönemleri, G-Sync'le tamamen sona erdirebiliyorsunuz.
+
+Ergonomik tasarım
+
+
+AOC G2460PG, belki daha önce incelediğimiz Asus'un ROG Swift monitörü kadar ilgi çekici bir tasarıma sahip değil. Ancak yine de karakteristik olarak oyunculara uygun yapıda. G-Sync sahibi olduğunu hemen ekranının altındaki yeşil çizgi ile belirten monitör, ergonomisiyle de kullanımını arttırıyor.
+
+Bağlantılarını arkada bulunduran monitör, bu noktalara erişmek için ergonomisine başvurabileceğiniz yapıda. Ekranı tutup çevirebiliyor veya alçaltıp yükseltebiliyorsunuz. Özellikle ekran yüksekliğini ayarlayabilmek, uzun süreli oyun seanslarında oturuş şeklinize göre uygun bakış açısı yaratabilmeniz adına sevindirici.
+
+Menü butonlarını ekranın sağ alt köşesinde bulunduran monitör, USB bağlantılarından ikisini ise kolay erişim için ekranın sağ kenarında sunuyor. Son olarak monitörde dahili hoparlörün bulunmadığını da söyleyelim.

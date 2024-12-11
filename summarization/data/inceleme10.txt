@@ -1,0 +1,45 @@
+﻿Özetle
+Toparlayacak olursak HyperX Savage'ın incelediğimiz 240 GB'lık modeli, gerçekten başarılı bir SSD. İyi bir SSD takviyesi ile sisteminizi terfi ettirmek istiyorsanız mutlaka düşünmeniz gereken bir seçenek. Performansıyla fiyatının hakkını veren HyperX Savage, yalnızca performansıyla değil, aynı zamanda zengin kutu içeriğiyle ve sunduğu mobil disk kutusuyla onu taşınabilir bir disk gibi kullanmanıza olanak tanımasıyla da ideal.
+
+240 GB Kingston HyperX Savage'ın fiyatı 460 TL civarında.
+
+Kimler Almalı
+Kingston HyperX Savage, iyi bir SSD takviyesi ile sisteminizi terfi ettirmek istiyorsanız mutlaka düşünmeniz gereken bir seçenek.
+
+EDİTÖR'ÜN SEÇİMİTÜMÜ
+
+ 
+Kingston HyperX FURY SSD
+ 
+Samsung SSD 850 Pro
+ 
+Western Digital WD Black 2 Dual Drive
+Kingston'ın bir süre önce duyurduğu HyperX Savage SSD'si elimizde!
+
+Yüksek performans almanın yolunun geçtiği SSD'ler, artık sistemlerin olmazsa olmaz depolama birimi. SSD takviyesi yapmadan önce bakılacak önemli modeller piyasada bulunuyor. Ciddi rekabet sağlayan markalar arasında yer alan Kingston'ın daha önce yine yüksek performanslı modellerini incelemiştik. Bugün elimizdeki model ise, Kingston'ın kısa bir süre önce duyurduğu HyperX Savage ailesinden bir model. 120, 240, 480 ve 960 GB kapasite seçenekleriyle raflarda yer alan HyperX Savage modelleri arasından biz 240 GB'lık modeline bakacağız.
+
+Oyunculara özel ürün ve ekipmanlarıyla dikkat çeken Kingston'ın HyperX markasının bir ürünü olan Savage SSD'de, 4 çekirdekli ve 8 kanallı Phison S10 kontrolcü bulunuyor. Tepe noktasında 560 MB/s sıralı okuma ve 530 MB/s sıralı yazma performansı iddia edilen HyperX Savage, bakalım bizim elimizde nasıl bir performans sergileyecek.
+
+Sağlam tasarım / zengin kutu içeriği
+
+
+Öncelikle elimizdeki 240 GB'lık HyperX Savage'ın tasarım yapısına ve kutu içeriğinde getirdiklerine bakalım. Bu SSD için kutu içeriği büyük önem arz ediyor, zira kullanılabilirliği arttıran zengin bir kutu içeriğiyle karşımızda.
+
+7 mm'lik tasarımla bizleri selamlayan HyperX Savage, kutu içeriğinde genişleme çerçevesiyle geliyor. Kingston, kullanıcılara kolay montaj için gerekli olabilecek tüm ekipmanı düşünmüş. Kutu içeriğinde gerekli tüm vidalar, hatta değiştirilebilir başlıklı şık bir tornavida da sunuluyor. Bilgisayarının kasasını, içinde yer alan donanım bileşenlerinin etiketleriyle süslemeyi sevenler için bir "HyperX" etiketi bile yer alıyor kutu içeriğinde.
+
+Dahası HyperX Savage'ın, SSD'nin dışında bir taşınabilir disk olarak da kullanılabilmesini sağlayacak disk kasasıyla geliyor olması, kullanıcıları fazlasıyla memnun edecektir diye düşünüyoruz. SSD'yi bu kutunun içine kolaylıkla yerleştiriyor ve ardından yine kutu içeriğinden çıkan USB 3.0 kablosuyla bilgisayarınıza bağlayarak, her an yanınızda bulundurabileceğiniz harici disk olarak da kullanabiliyorsunuz.
+
+HyperX Savage'ın performans notlarına geçmeden önce, metalik kasasının oldukça sağlam olduğunu ve şık göründüğünü de sözlerimize ekleyelim.
+
+Performans notları
+
+
+Az önce de söylediğimiz gibi HyperX Savage, elimizdeki modeliyle 240 GB'lık kapasiteye sahip. 4 çekirdekli ve 8 kanallı Phison S10 kontrolcüyle donalı olan HyperX Savage, SATA 3.0 arabirimini kullanıyor. Kingston'ın iddiası HyperX Savage'ın elimizdeki kapasiteli sürümünün 520 MB/s sıralı okuma, 510 MB/s sıralı yazma performansı gösterdiği yönünde. Biz yaptığımız testler arasında farklı yazılımlarla ve test senaryolarıyla yorduğumuz HyperX Savage'ın özellikle CrystalDiskMark ve ATTO iddialarını neredeyse karşıladığını söyleyebiliriz.
+
+CrystalDiskMark'ta ilk testimizde 1000MB'lık senaryoda saniyede 521 MB/s sıralı okuma, saniyede 503 MB/s sıralı yazma hızlarına erişen HyperX Savage, testi 4000MB'ta tekrarladığımızda bir kez daha aynı sonuçları bize getirdi. Bu noktada HyperX Savage'ı, Samsung 850 EVO ile kıyaslayacak olursak daha iyi performans verdiğini rahatlıkla söyleyebiliriz.
+
+Diskin 4K performansına baktığımızda -farklı testlerle- burada da 24 ila 29 MB/s okuma, 101 ila 104 MB/s yazma sonuçları aldık.
+
+ATTO'da da yine 560MB/s sıralı okuma ve 530 MB/s sıralı yazma performansını karşıladığını gördüğümüz HyperX Savage, AS SSD'de erişim süre sonuçlarına göre yazma noktasında 1 ms ile Samsung 850 EVO'nun önündeyken, okuma noktasında ise 5 ms ile geriden geliyor. Bunlar büyük farklar değil elbette.
+
+Diskin IOPS (Input/Output Operations Per Second) sonuçlarına baktığımızda burada da 4kb okuma ve yazma noktalarında Samsung 850 EVO'nun burun farkıyla öne geçtiğini söylemek lazım. Ama elbette bu değerlerin disklerin takılı olduğu sistemden sisteme değişeceğini de unutmamak gerekiyor.

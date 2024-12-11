@@ -1,0 +1,11 @@
+haber1 - A
+haber2 - A
+haber3 - A
+haber4 - B
+haber5 - A
+
+1 hierarchic
+2 hierarchic
+3 k-means
+4 hierarchic
+5 hierarchic
